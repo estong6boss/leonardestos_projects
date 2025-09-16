@@ -13,7 +13,7 @@ Welcome to my collection of projects focused on Cybersecurity and System Adminis
 
 🚀 Getting Started
 Each project includes setup instructions and to get started:
-1. Projects are located to https://github.com/estong6boss/leonardestos_project
+1. Projects are located to https://github.com/estong6boss/leonardestos_projects 
 2. Follow the usage guide and prerequisites listed in the individual.
 
 📚 Purpose
