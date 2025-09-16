@@ -1,1 +1,27 @@
-I researched and analyzed real-world cybersecurity incidents, from AI-driven misinformation campaigns to ransomware attacks targeting critical infrastructure. I produced multiple white papers documenting attack vectors, discovery methods, containment strategies, lessons learned, and cost considerations. This experience sharpened my ability to translate complex technical incidents into structured, professional reports aligned with industry standards. I learned to communicate actionable insights in a way that is accessible to technical, executive, and legal audiences.
+# 🔐 Cybersecurity & 🖥️ System Administration Projects
+
+Welcome to my collection of projects focused on Cybersecurity and System Administration. These repositories showcase practical tools, scripts, and configurations aimed at improving system security, automating administrative tasks, and deepening technical knowledge.
+
+## 📁 Project Categories
+- **Cybersecurity**: Threat detection, vulnerability scanning, incident response, and secure configurations.
+- **System Administration**: Automation scripts, server setups, monitoring tools, and performance tuning.
+
+## ⚙️ Technologies Used
+- Bash, PowerShell, Python
+- Linux & Windows environments
+- Tools like Wireshark, Nmap, Snort, Ansible, and more
+
+## 🚀 Getting Started
+Each project includes setup instructions and to get started:
+1. Projects are located to https://github.com/estong6boss/leonardestos_project
+2. Follow the usage guide and prerequisites listed in the individual.
+
+## 📚 Purpose
+These projects are built for learning, experimentation, and real-world application. Contributions and feedback are welcome!
+
+## 📬 Contact
+Feel free to reach out via GitHub Issues or connect with me on LinkedIn: https://www.linkedin.com/in/leonard-estos-184ba96/ for collaboration.
+
+---
+
+Want me to tailor this for a specific project or add badges, licensing, or contribution guidelines? I’ve got you covered.
