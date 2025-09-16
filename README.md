@@ -1,25 +1,25 @@
-# 🔐 Cybersecurity & 🖥️ System Administration Projects
+🔐 Cybersecurity & 🖥️ System Administration Projects
 
 Welcome to my collection of projects focused on Cybersecurity and System Administration. These repositories showcase practical tools, scripts, and configurations aimed at improving system security, automating administrative tasks, and deepening technical knowledge.
 
-## 📁 Project Categories
+📁 Project Categories
 - **Cybersecurity**: Threat detection, vulnerability scanning, incident response, and secure configurations.
 - **System Administration**: Automation scripts, server setups, monitoring tools, and performance tuning.
 
-## ⚙️ Technologies Used
+⚙️ Technologies Used
 - Bash, PowerShell, Python
-- Linux & Windows environments
-- Tools like Wireshark, Nmap, Snort, Ansible, and more
+- Linux, Ubuntu & Windows environments
+- Tools like Wireshark, Nmap, Snort, Ansible, SIEM, Wazuh and more
 
-## 🚀 Getting Started
+🚀 Getting Started
 Each project includes setup instructions and to get started:
 1. Projects are located to https://github.com/estong6boss/leonardestos_project
 2. Follow the usage guide and prerequisites listed in the individual.
 
-## 📚 Purpose
-These projects are built for learning, experimentation, and real-world application. Contributions and feedback are welcome!
+📚 Purpose
+These projects are built for learning, experimentation, lab and real-world application. Contributions and feedback are welcome!
 
-## 📬 Contact
+📬 Contact
 Feel free to reach out via GitHub Issues or connect with me on LinkedIn: https://www.linkedin.com/in/leonard-estos-184ba96/ for collaboration.
 
 ---
