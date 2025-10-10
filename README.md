@@ -9,7 +9,7 @@ Welcome to my collection of projects focused on Cybersecurity and System Adminis
 ⚙️ Technologies Used
 - Bash, PowerShell, Python
 - Linux, Ubuntu & Windows environments
-- Tools like Wireshark, Nmap, Snort, Ansible, SIEM, Wazuh, Microsoft Entra, Microsoft Defender and more
+- Tools like Wireshark, Nmap, N8N, SPLUNK, WAZUH, SIEM, SOAR, SHUFFLE, MIMIKATAZ Microsoft Entra, Microsoft Defender and more
 
 🚀 Getting Started
 Each project includes setup instructions and to get started:
