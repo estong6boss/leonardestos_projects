@@ -3,13 +3,13 @@
 Welcome to my collection of projects focused on Cybersecurity and System Administration. These repositories showcase practical tools, scripts, and configurations aimed at improving system security, automating administrative tasks, and deepening technical knowledge.
 
 📁 Project Categories
-- **Cybersecurity**: Threat detection, vulnerability scanning, incident response, and secure configurations.
-- **System Administration**: Automation scripts, server setups, monitoring tools, and performance tuning.
+- **Cybersecurity**: Threat Detection and Analysis, Risk Management, Vulnerability Scanning, Digital Forensic, Incident Response, SIEM (Wazuh & Splunk), SOAR (Shuffle & N8N), NIST CSF, CIS, and secure configurations.
+- **System Administration**: Servers (Windows & Linux) and Applications (Installation, setup/configuration), IAM, RBAC, PAM, Access Controls, Policy, Automation Scripts, Monitoring tools, and performance tuning.
 
 ⚙️ Technologies Used
 - Bash, PowerShell, Python
-- Linux, Ubuntu & Windows environments
-- Tools like Wireshark, Nmap, N8N, SPLUNK, WAZUH, SIEM, SOAR, SHUFFLE, MIMIKATAZ Microsoft Entra, Microsoft Defender and more
+- Linux, Kali, Ubuntu & Windows Server 2022 environments
+- Tools like Wireshark, Nmap, N8N, SPLUNK, WAZUH, SIEM, SOAR, SHUFFLE, MIMIKATAZ Microsoft Entra, Microsoft Defender and more...
 
 🚀 Getting Started
 Each project includes setup instructions and to get started:
